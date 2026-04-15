@@ -32,6 +32,7 @@
 - [Hector Ayala](https://github.com/bombillazo)
 - [Hiram Chirino](https://github.com/chirino)
 - [Idan Ben Ami](https://github.com/idbenami)
+- [Inas Sirhan](https://github.com/inas-sirhan)
 - [Jan](https://github.com/JanST123)
 - [Jason Lee](https://github.com/LeeChSien)
 - [Jason Westover](https://github.com/j-westover)
