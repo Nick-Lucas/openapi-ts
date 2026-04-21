@@ -119,4 +119,5 @@
 - [nnzhadow](https://github.com/nnzhadow)
 - [pullfrog[bot]](https://github.com/pullfrog[bot])
 - [pullfrog[bot]](https://github.com/pullfrog[bot])
+- [pullfrog[bot]](https://github.com/pullfrog[bot])
 - [renoschubert](https://github.com/renoschubert)
